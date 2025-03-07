@@ -8,4 +8,4 @@ repository = "https://github.com/Lev1ty/zed-text-utility"
 
 [language_servers.text-language-server]
 name = "Text Language Server"
-languages = ["Json", "Markdown"]
+languages = ["JSON", "Markdown"]
