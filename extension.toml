@@ -1,0 +1,11 @@
+id = "text-language-server"
+name = "Text Language Server"
+version = "0.0.1"
+schema_version = 1
+authors = ["Adam Yu <adamxhy123@gmail.com>"]
+description = "Common text utilities provided by text-language-server"
+repository = "https://github.com/Lev1ty/zed-text-utility"
+
+[language_servers.text-language-server]
+name = "Text Language Server"
+languages = ["Json", "Markdown"]
